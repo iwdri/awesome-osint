@@ -862,6 +862,7 @@ algorithms, knowledgebase and AI technology.
 * [Inc. 5000](https://www.inc.com/inc5000)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+* [KontragentPro](https://kontragentpro.ru) - Russian company lookup by tax ID (INN) or registration number (OGRN) over official open registries: registry details, multi-year financial statements from the state accounting database, bankruptcy records, trademarks and state inspection history. Freemium, with a REST API and an MCP server; also publishes derived open datasets under CC BY 4.0 with DOIs.
 * [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 * [Mergent Intellect](https://www.mergentintellect.com)
 * [Mergent Online](https://www.mergentonline.com/login.php)
